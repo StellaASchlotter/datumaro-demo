@@ -11,3 +11,7 @@ source venv/bin/activate
 python -m pip install -r requirements.txt
 python main.py
 ```
+
+TODOS:
+- how to combine datasets?
+- can we use the same subsets for training and evaluation?
